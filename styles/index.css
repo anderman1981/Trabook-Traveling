@@ -8,3 +8,25 @@
     color: white;
     width: 155px;
 }
+
+.py-6 {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.orange-color {
+    color: #FA7435;
+}
+
+#things-u-need {
+    margin-top: 500px;
+}
+
+.card-icon-top {
+    height: 50px;
+    width: 50px;
+}
+
+.card {
+    border-radius: 10px;
+}
