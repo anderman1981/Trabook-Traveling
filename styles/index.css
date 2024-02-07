@@ -1,3 +1,6 @@
+body {
+    background-color: #FDFCFA !important;
+}
 #btn-login {
     color: #FA7435;
     width: 155px;
@@ -29,13 +32,25 @@
     background-color: #F7F8FC !important;
 }
 
+#reviews {
+    background-color: #F7F8FC !important;
+}
+
+footer {
+    background-color: #F7F8FC !important;
+}
+
 .card-icon-top {
     height: 50px;
     width: 50px;
 }
 
-.card {
-    border-radius: 1000px;
+.svg-star {
+    color: rgb(245, 245, 19);
+}
+
+.svg-location {
+    color: rgba(151, 151, 147, 0.616);
 }
 
 .position-relative {
@@ -49,4 +64,9 @@
     left: 0;
     width: 100%; /* Toma el ancho completo del contenedor */
     opacity: 1; /* Opacidad de la imagen encima */
+}
+
+.card-exclusive {
+    border: 1px solid #c0b7b79c !important;
+    background-color: white !important;
 }
