@@ -3,6 +3,12 @@
     width: 155px;
 }
 
+#btn-discover {
+    color: #FA7435;
+    border-color: #FA7435;
+    width: 180px;
+}
+
 #btn-signup {
     background-color: #FA7435;
     color: white;
@@ -20,6 +26,7 @@
 
 #things-u-need {
     margin-top: 500px;
+    background-color: #F7F8FC !important;
 }
 
 .card-icon-top {
@@ -28,5 +35,18 @@
 }
 
 .card {
-    border-radius: 10px;
+    border-radius: 1000px;
+}
+
+.position-relative {
+    position: relative;
+    width: 300px; /* Ancho de la imagen principal */
+}
+
+.overlay-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Toma el ancho completo del contenedor */
+    opacity: 1; /* Opacidad de la imagen encima */
 }
