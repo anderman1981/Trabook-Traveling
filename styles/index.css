@@ -1,6 +1,7 @@
 body {
     background-color: #FDFCFA !important;
 }
+
 #btn-login {
     color: #FA7435;
     width: 155px;
@@ -38,6 +39,10 @@ body {
 
 footer {
     background-color: #F7F8FC !important;
+}
+
+.brand-footer {
+    font-family: 'Volkhov', serif;
 }
 
 .card-icon-top {
