@@ -41,6 +41,10 @@ footer {
     background-color: #F7F8FC !important;
 }
 
+footer a {
+    text-decoration: none;
+    color: #666666;
+}
 .brand-footer {
     font-family: 'Volkhov', serif;
 }
